@@ -1,9 +1,13 @@
 LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/arch=x86_64
 LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/name=Local
 LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/os=win32
-configDescList=org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:STM32F103_FreeRTOS_CMSIS_Template
+configDescList=org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:STM32F103_FreeRTOS_CMSIS_Template,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:STM32F103_FreeRTOS_CMSIS_Event Debug
 eclipse.preferences.version=1
+org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:STM32F103_FreeRTOS_CMSIS_Event\ Debug/activeLaunchMode=debug
+org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:STM32F103_FreeRTOS_CMSIS_Event\ Debug/activeLaunchTarget=null\:---
 org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:STM32F103_FreeRTOS_CMSIS_Preparation\ Debug/activeLaunchMode=run
 org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:STM32F103_FreeRTOS_CMSIS_Preparation\ Debug/activeLaunchTarget=null\:---
+org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:STM32F103_FreeRTOS_CMSIS_Semaphore\ Debug/activeLaunchMode=debug
+org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:STM32F103_FreeRTOS_CMSIS_Semaphore\ Debug/activeLaunchTarget=null\:---
 org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:STM32F103_FreeRTOS_CMSIS_Template/activeLaunchMode=run
 org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:STM32F103_FreeRTOS_CMSIS_Template/activeLaunchTarget=null\:---
